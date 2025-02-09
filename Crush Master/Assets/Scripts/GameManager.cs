@@ -49,8 +49,8 @@ public class GameManager : MonoBehaviour
         // Shuffle
         for (int i = 0; i < symbolPairs.Count; i++)
         {
-            int randomIndex = Random.Range(i, symbolPairs.Count);
-            (symbolPairs[i], symbolPairs[randomIndex]) = (symbolPairs[randomIndex], symbolPairs[i]);
+            //int randomIndex = Random.Range(i, symbolPairs.Count);
+            //(symbolPairs[i], symbolPairs[randomIndex]) = (symbolPairs[randomIndex], symbolPairs[i]);
         }
 
         // Create cards

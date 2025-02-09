@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8474d9fb064b04f829de875139ce1413
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190721
+  packageName: Dragon Crashers - 2D Sample Project
+  packageVersion: 1.1
+  assetPath: Assets/Sprite Atlases/Characters.spriteatlas
+  uploadId: 467401

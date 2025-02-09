@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59e6dff72ce24df4192e469963b184cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190721
+  packageName: Dragon Crashers - 2D Sample Project
+  packageVersion: 1.1
+  assetPath: Assets/Gameplay/_Prefabs/Managers/Manager_DamageDisplays.prefab
+  uploadId: 467401
